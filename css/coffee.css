@@ -1,0 +1,135 @@
+/* black coffee*/
+.bc{
+position: absolute;
+width: 598px;
+height: 415px;
+left: 431px;
+top: 149px;
+display: none;
+
+background: url(/img/coffee.jpg);
+border-radius: 96px;
+}
+
+/* Black Coffee txt */
+.bct{
+position: absolute;
+width: 377px;
+height: 87px;
+left: 551px;
+top: 564px;
+
+display: none;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 108px;
+
+color: #000000;
+}
+
+/* Recipes */
+.recipes{
+position: absolute;
+width: 428px;
+height: 83px;
+left: 273px;
+top: 724px;
+display: none;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 86px;
+text-indent: 130px;
+text-align: center;
+color: #000000;
+
+background: #B18181;
+border-radius: 59px;
+}
+
+/* origin */
+.origin{
+position: absolute;
+width: 428px;
+height: 83px;
+left: 783px;
+top: 726px;
+display: none;
+text-align: center;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 86px;
+text-indent: 150px;
+
+color: #000000;
+
+background: #B18181;
+border-radius: 59px;
+}
+
+/* Coffee Origin Popup */
+.originpopup{
+position: absolute;
+width: 1093px;
+height: 640px;
+left: 186px;
+top: 192px;
+display: none;
+
+background: #E1D7BC;
+mix-blend-mode: multiply;
+border-radius: 124px;
+}
+
+/* origin description Black Coffee */
+.origindescBC{
+position: absolute;
+width: 919px;
+height: 470px;
+left: 267px;
+top: 260px;
+display: none;
+z-index: 1;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 72px;
+
+color: #6D8A68;
+}
+
+/* close origin*/
+.closeorigin {
+position:absolute;
+width: 63px;
+height: 46px;
+left: 0px;
+top: 0px;
+
+background: #ffffff;
+border-radius: 100%;
+cursor:pointer;
+}
+
+/* akar-icons:arrow-back */
+.backbtn{
+    position: absolute;
+    width: 103px;
+    height: 78px;
+    left: 29px;
+    top: 150px;
+    display: none;
+    border-radius: 500%;
+
+    background: url(/img/backbutton.webp);
+    }

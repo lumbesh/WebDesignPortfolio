@@ -1,0 +1,157 @@
+/* menu popup */
+.popupmenu{
+position: absolute;
+width: 595px;
+height: 719px;
+left: 845px;
+top: 0px;
+display: none;
+z-index: 1;
+background: #EF7752;
+mix-blend-mode: normal;
+}
+
+/* Rectangle 12 */
+.rectangle12{
+position: absolute;
+width: 595px;
+height: 65px;
+left: 0px;
+top: 170px;
+display: flex;
+text-align: center;
+
+font-family: Rosario;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 62px;
+
+color: #000000;
+
+background: #F9AAAA;
+}
+
+/* Rectangle 15 */
+.rectangle15{
+position: absolute;
+width: 595px;
+height: 65px;
+left: 0px;
+top: 266px;
+display: flex;
+text-align: center;
+
+font-family: Rosario;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 62px;
+
+color: #000000;
+
+background: #F9AAAA;
+}
+
+/* Rectangle 17 */
+.rectangle17{
+position: absolute;
+width: 595px;
+height: 65px;
+left: 0px;
+top: 362px;
+display: flex;
+text-align: center;
+
+font-family: Rosario;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 62px;
+
+color: #000000;
+
+background: #F9AAAA;
+}
+
+/* Rectangle 19 */
+.rectangle19{
+position: absolute;
+width: 595px;
+height: 65px;
+left: 0px;
+top: 654px;
+display: flex;
+
+text-align: center;
+
+font-family: Rosario;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 62px;
+
+color: #000000;
+background: #F9AAAA;
+}
+
+/* Rectangle 13 */
+.rectangle13{
+position: absolute;
+width: 7px;
+height: 65px;
+left: 0px;
+top: 170px;
+z-index: 1;
+background: #1B0202;
+border-radius: 2px;
+}
+
+/* Rectangle 16 */
+.rectangle16{
+position: absolute;
+width: 7px;
+height: 65px;
+left: 0px;
+top: 266px;
+
+background: #1B0202;
+border-radius: 2px;
+}
+
+/* Rectangle 18 */
+.rectangle18{
+position: absolute;
+width: 7px;
+height: 65px;
+left: 0px;
+top: 362px;
+
+background: #1B0202;
+border-radius: 2px;
+}
+
+/* Rectangle 20 */
+.rectangle20{
+position: absolute;
+width: 7px;
+height: 65px;
+left: 0px;
+top: 654px;
+
+background: #1B0202;
+border-radius: 2px;
+}
+
+/* close*/
+.closemenu {
+    position:absolute;
+    width: 63px;
+    height: 46px;
+    leftt: 0px;
+    top: 0px;
+    
+    background: #ffffff;
+    border-radius: 100%;
+    cursor:pointer;
+    }
